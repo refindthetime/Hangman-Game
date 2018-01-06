@@ -1,1 +1,3 @@
 # Hangman-Game
+
+THIS IS AN UNFINISHED PROJECT
